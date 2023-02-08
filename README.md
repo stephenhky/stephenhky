@@ -11,6 +11,9 @@ Links:
 
 WebApps:
 - [Finport-Inference](https://share.streamlit.io/stephenhky/finport-inference-streamlit/main.py)
+- [Mouse Group Assignment](https://stephenhky-mousegroupassignment-app-ldygfx.streamlit.app/)
+- [Science Similarity](https://stephenhky-sciencesimilaritydemo-app-qyz0zh.streamlit.app/)
 
-APIs:
-- 
+Telegram Bots:
+- [Finport Bot](https://t.me/FinportTelebot)
+- [ReformedCat Bot](https://t.me/reformedcatbot)
