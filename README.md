@@ -10,7 +10,7 @@ Links:
 - [Github](https://github.com/stephenhky)
 
 WebApps:
-- [Finport-Inference](https://share.streamlit.io/stephenhky/finport-inference-streamlit/main.py)
+- [Finport-Inference](https://finport-inference.streamlit.app/)
 - [Mouse Group Assignment](https://stephenhky-mousegroupassignment-app-ldygfx.streamlit.app/)
 - [Sentence Similarity](https://stephenhky-sciencesimilaritydemo-app-qyz0zh.streamlit.app/)
 - [GPT Paper Reader](https://gpt-paper-reader.streamlit.app/)
