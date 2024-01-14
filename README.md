@@ -1,4 +1,4 @@
-# Kwan-Yuet "Stephen" Ho
+# Kwan Yuet Stephen Ho
 
 - Applied Quantitative Researcher
 - Senior Data Scientist at [Leidos](https://www.leidos.com/)
