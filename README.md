@@ -1,7 +1,7 @@
 # Kwan-Yuet "Stephen" Ho
 
 - Applied Quantitative Researcher
-- Senior Data Scientist at [Leidos](https://www.leidos.com/)
+- Physical Scientist (Data Scientist) at [NIH Center for Scientific Review](https://public.csr.nih.gov/)
 - Expertise in machine learning
 - PhD in physics (University of Maryland)
 
