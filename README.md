@@ -1,4 +1,4 @@
-# Kwan-Yuet "Stephen" Ho
+# Kwan Yuet Stephen Ho
 
 - Applied Quantitative Researcher
 - Physical Scientist (Data Scientist) at [NIH Center for Scientific Review](https://public.csr.nih.gov/)
