@@ -14,6 +14,7 @@ WebApps:
 - [Mouse Group Assignment](https://stephenhky-mousegroupassignment-app-ldygfx.streamlit.app/)
 - [Sentence Similarity](https://stephenhky-sciencesimilaritydemo-app-qyz0zh.streamlit.app/)
 - [GPT Paper Reader](https://gpt-paper-reader.streamlit.app/)
+- [AskFaith](https://askfaith.streamlit.app/)
 
 Telegram Bots:
 - [Finport Bot](https://t.me/FinportTelebot)
