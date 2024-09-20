@@ -12,7 +12,6 @@ Links:
 WebApps:
 - [Finport-Inference](https://finport-inference.streamlit.app/)
 - [Mouse Group Assignment](https://stephenhky-mousegroupassignment-app-ldygfx.streamlit.app/)
-- [Sentence Similarity](https://stephenhky-sciencesimilaritydemo-app-qyz0zh.streamlit.app/)
 - [Paper Reader](https://llm-paper-reader.streamlit.app/)
 - [AskFaith](https://askfaith.streamlit.app/)
 
