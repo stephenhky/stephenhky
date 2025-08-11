@@ -2,7 +2,7 @@
 
 - Applied Quantitative Researcher
 - Physical Scientist (Data Scientist) at [NIH Center for Scientific Review](https://public.csr.nih.gov/)
-- Expertise in machine learning
+- Expert of machine learning
 - PhD in physics (University of Maryland)
 
 Links:
@@ -19,3 +19,7 @@ WebApps:
 Telegram Bots:
 - [Finport Bot](https://t.me/FinportTelebot)
 - [ReformedCat Bot](https://t.me/reformedcatbot)
+
+Github's Stats
+![alt](https://github-readme-stats.vercel.app/api?username=stephenhky&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=tokyonight)
+![alt](https://github-readme-stats.vercel.app/api/top-langs/?username=stephenhky&layout=compact&theme=tokyonight)
